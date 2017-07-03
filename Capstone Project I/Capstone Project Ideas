@@ -1,0 +1,27 @@
+CAPSTONE PROJECT IDEAS
+
+1) Instacart Market Basket Analysis
+    https://www.kaggle.com/c/instacart-market-basket-analysis
+    
+    This is a Market Basket Analysis to predict if previously purchased items will be in the next order. 
+    
+    Pros 
+    1)    This will be my first market basket analysis and as such I will get to learn a lot.
+    2)    The concepts used might be more transferable to other projects/companies in the industry
+
+    Cons
+    1)    I don't know if it it too much to take on.
+        
+
+2) Zillow Zestimate
+    https://www.kaggle.com/c/zillow-prize-1
+
+    To predict future sales price of homes.
+    
+    Pros 
+    1)    I havent done a regression problem yet. So I definitely stand to benefit.
+
+    Cons
+    1)    I have already done a real estate classification project. My portfolio will end up having only real estate projects.
+
+
