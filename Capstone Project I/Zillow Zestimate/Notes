@@ -1,0 +1,5 @@
+7/3/2017
+EDA on properties_2016.csv
+Need to specify dtypes for a few columns
+Dataset contains a lot of missing values
+Categorical variables specifies only one category - Assumption is that the others should show FALSE but instead shows NaN - Need to recode variables
