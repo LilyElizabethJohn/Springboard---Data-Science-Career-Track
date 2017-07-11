@@ -1,4 +1,4 @@
 # Springboard---Data-Science-Career-Track
 
 ## Data Wrangling Mini Projects
-### JSON Excercise
+### JSON - Read JSON file, Normalize, Replace Missing Values, Summarize
