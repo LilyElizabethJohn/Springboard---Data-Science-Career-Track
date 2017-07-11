@@ -1,12 +1,8 @@
-
 SpringBoard Data Science Career Track
 
 JSON Excercise
 
 Goal - Read in JSON dataset, Normalize dataset, Replace missing values and Create aggregate counts
-
-
-JSON example, with file
 
 Demonstrates reading in a json file as a string and as a table
 
